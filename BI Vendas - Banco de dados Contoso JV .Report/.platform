@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "BI Vendas - Banco de dados Contoso JV "
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ec95e6b7-8bd5-4119-8aac-db3bfcf82fbf"
+  }
+}
